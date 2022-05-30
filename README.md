@@ -38,6 +38,8 @@
 <a href="https://discord.gg/3756" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="3756" height="30" width="40" /></a>
 </p>
 
+<br>
+
 <h3 align="left">Technology stack:</h3>
 <p align="left">
 
@@ -49,5 +51,7 @@
   <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=beatrisborisova&show_icons=true&locale=en&layout=compact" alt="beatrisborisova" /></p>
