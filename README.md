@@ -1,5 +1,5 @@
 <!-- ### Hi, I'm Beatris 👋
-#### I'm Front-End development enthusiast
+#### I'm Front-End developer
 <!-- 
 <!--
 **beatrisborisova/beatrisborisova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
